@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Java, Spring Boot, Lambdas, functional programming, SQL, Angular, RxJs, Git, Docker etc.
 - 💞️ I’m looking to collaborate on projects open source.  
 - 📫 How to reach me: jossekarlos10@gmail.com 😉
+- 🗒🖋 My personal blog: https://medium.com/@joseosorioc
 
 <h3> Languajes  and Tools</h3>
 
